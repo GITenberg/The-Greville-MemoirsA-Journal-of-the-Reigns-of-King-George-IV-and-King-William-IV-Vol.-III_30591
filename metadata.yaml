@@ -22,6 +22,8 @@ creator:
 description: '[Sect. 1] A journal of the reigns of King George IV. -- [sect. 2] A
   journal of the reign of Queen Victoria, from 1837 to 1852. -- [sect. 3] A journal
   of the reign of Queen Victoria, from 1852 to 1860.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30591#The-Greville-MemoirsA-Journal-of-the-Reigns-of-King-George-IV-and-King-William-IV-Vol.-III
 gutenberg_issued: '2009-12-03'
 gutenberg_type: Text
 identifiers:
